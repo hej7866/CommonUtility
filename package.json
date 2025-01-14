@@ -1,0 +1,15 @@
+{
+    "name": "com.hej-studio.commonutility",
+    "version": "1.0.0",
+    "displayName": "HEJ Common Utility",
+    "description": "Common Manager Clss",
+    "unity": "2022.3",
+    "dependencies": {
+      "com.unity.some-package": "1.0.0",
+      "com.unity.inputsystem": "1.7.0"
+
+   },
+    "author": {
+      "name": "Hwang Eun Jung"
+    }
+  }
